@@ -15,7 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-                sh cp -r ~/jenkins/workspace/abc-pipline2/* /root/project-folder/shoes2
+                sh "cp -r ~/jenkins/workspace/abc-pipline2/* /root/project-folder/shoes2"
             }
         }
     }
