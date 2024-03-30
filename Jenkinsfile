@@ -15,7 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-                sh "scp -r /var/jenkins_home/workspace/abc-pipline2/* root@192.168.214.145:~/root/project-folder/shoes2"
+                sh "scp -r /var/jenkins_home/workspace/abc-pipline2/* root@192.168.214.145:/root/project-folder/shoes2"
             }
         }
     }
