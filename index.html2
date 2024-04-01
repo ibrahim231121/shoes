@@ -27,15 +27,9 @@ Roboto+Condensed:ital,wght@1,300&display=swap" rel="stylesheet">
                 <img src="ac.png" width="30px" height="30px">    
          </div>
          <div class="row">
-             <div class="col-1">
+             <div class="col-2">
 		     <h1>can see content at</h1>
 
-<form action="https://drive.google.com/file/d/1SmuY_BzgOELWYDxCzvDd9Pkf47VAVD60/preview">
-    <input type="submit" value="jenkins-cicd-video" />
-</form>
-<form action="https://drive.google.com/file/d/1SmuY_BzgOELWYDxCzvDd9Pkf47VAVD60/preview">
-    <input type="submit" value="jenkins-cicd-video" />
-</form>
 <form action="https://drive.google.com/file/d/1SmuY_BzgOELWYDxCzvDd9Pkf47VAVD60/preview">
     <input type="submit" value="jenkins-cicd-video" />
 </form>
@@ -48,7 +42,7 @@ Roboto+Condensed:ital,wght@1,300&display=swap" rel="stylesheet">
                      Greatness come with that.</p>
                      <a href=""class="btn">Explore Now &#8594;</a>
              </div>
-             <div class="col-17">
+             <div class="col-2">
                  <img src="ab.jpg">
              </div>
          </div>
